@@ -2,7 +2,7 @@
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ [General informations](https://github.com/emtechstars/etrobo-general) (only our members)
+🙋‍♀️ [General informations](https://github.com/emtechstars/etrobo-general) (members only)
 
 🙋‍♀️ A short introduction - what is your organization all about?  
 🌈 Contribution guidelines - how can the community get involved?  
