@@ -2,6 +2,8 @@
 
 **Here are some ideas to get you started:**
 
+🙋‍♀️ [General informations](https://github.com/emtechstars/etrobo-general)
+
 🙋‍♀️ A short introduction - what is your organization all about?  
 🌈 Contribution guidelines - how can the community get involved?  
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?  
