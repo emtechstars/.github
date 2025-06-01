@@ -24,3 +24,8 @@
 
 🧙 [sample00](https://github.com/emtechstars/sample00) : 技術教育１用 Sandbox  
 🧙 [sample03](https://github.com/emtechstars/sample03) : 技術教育１用 Sandbox  
+
+**過去プロジェクト**
+
+👾 [ETロボコン2023](https://github.com/users/owhinata/projects/3)  
+👾 [etrobo_tr_ex3](https://github.com/owhinata/etrobo_tr_ex3)
