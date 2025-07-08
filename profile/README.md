@@ -14,7 +14,7 @@
 　+- 🧙 [pybricks-micropython](https://github.com/emtechstars/pybricks-micropython) : SPIKE MircoROS用 Pybricks  
 
 🧙 [raspike_uros_msg](https://github.com/emtechstars/raspike_uros_msg) : SPIKE MicroROSメッセージ定義  
-🧙 linetrace_sample  
+🧙 [linetrace_sample](https://github.com/Hiyama1026/raspike-ros/tree/master/sample-pkgs/linetrace_sample) : ETロボコン走行体用ROSライントレースプログラム
 
 🧙 [etrobo_runner](https://github.com/emtechstars/etrobo_runner) : Runnerノード  
 🧙 [etrobo_navigator](https://github.com/emtechstars/etrobo_navigator) : Navigatorノード  
